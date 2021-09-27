@@ -10,7 +10,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/aws/awsutil v0.35.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/aws/metrics v0.35.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/resourcetotelemetry v0.35.0
-	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/opencensus v0.35.0
+	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/opencensus v0.36.0
 	github.com/stretchr/testify v1.7.0
 	go.opentelemetry.io/collector v0.35.1-0.20210915180232-9fcd2bb61979
 	go.opentelemetry.io/collector/model v0.35.1-0.20210915180232-9fcd2bb61979
